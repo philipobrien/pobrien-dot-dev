@@ -1,13 +1,18 @@
 ---
 title: A post with code samples
-description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
+description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut
+  chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
 permalink: posts/{{ title | slug }}/index.html
-date: '2020-11-18'
+date: 2020-11-18
 updated: '2021-02-12'
-tags: [demo-content, code]
----
+tags:
+- demo-content
+- code
 
+---
 Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
+
+Testing something
 
 ## The `.full-bleed` utility
 
