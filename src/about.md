@@ -5,4 +5,4 @@ name: Philip O'Brien
 image: '/images/me.png'
 ---
 
-Philip sure is something.
+
